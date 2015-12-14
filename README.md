@@ -1,2 +1,2 @@
 # AC
-Codes on oninejudge or algorithm contests
+Codes on onlinejudge or algorithm contests
