@@ -1,2 +1,2 @@
 # AC
-Codes on onlinejudge or algorithm contests
+Some codes that is not worth mentioning.
